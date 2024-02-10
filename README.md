@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Max's GitHub Stats](https://github-readme-stats-mu-rose.vercel.app/api?username=maxontech&show_icons=true&theme=vue)](https://github.com/maxontech/github-readme-stats)
 
-
+<!--START_SECTION:activity-->
 <!--
 **maxontech/maxontech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
