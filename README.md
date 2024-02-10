@@ -5,7 +5,7 @@
 
 <!--START_SECTION:activity-->
 
-<script src="https://gist.github.com/maxontech/6958fa6578347d569405a07b5082f840.js"></script>
+
 
 <!--
 **maxontech/maxontech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
