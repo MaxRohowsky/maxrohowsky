@@ -1,6 +1,8 @@
 ### Hi there 👋
 [![Max's GitHub Stats](https://github-readme-stats-mu-rose.vercel.app/api?username=maxontech&show_icons=true&theme=vue)](https://github.com/maxontech/github-readme-stats)
 
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/max_on_tech) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/maxrohowsky)
+
 <!--START_SECTION:activity-->
 
 <!--
