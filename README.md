@@ -1,23 +1,15 @@
 ### Hi there 👋
+
+I'm Max, a Finance Ph.D. with a background in Industrial Engineering. I work as a consultant in the finance & tech space and have a profound interest in building projects and products that 'stick'.
+
 [![Max's GitHub Stats](https://github-readme-stats-mu-rose.vercel.app/api?username=maxontech&show_icons=true&theme=vue)](https://github.com/maxontech/github-readme-stats)
 
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/max_on_tech) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/maxrohowsky)
+💬 My (new) Twitter:
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/max_on_tech) 
+
+🌱 My LinkedIn:
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/maxrohowsky)
 
 
 
 
-
-<!--
-**maxontech/maxontech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
