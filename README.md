@@ -1,5 +1,3 @@
-![image](https://github.com/maxontech/maxontech/assets/68344959/c8bcc1f1-33be-46a1-a78f-6f0d563459d5)
-
 
 ### Hi there 👋
 
