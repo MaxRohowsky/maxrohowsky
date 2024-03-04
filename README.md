@@ -10,7 +10,7 @@ I'm Max, a Finance Ph.D. with a background in Industrial Engineering. I work as 
 - [Click to Copy](https://maxontech.io/click-to-copy)
 - [Linkedin Font Editor](https://maxontech.io/linkedin-font-editor)
 
-##  Blog Posts 
+## 📝 Popular Blog Posts 
 - [JavaScript in a Nutshell](https://maxontech.io/javascript-in-a-nutshell)
 - [My Core Beliefs](https://maxontech.io/blog/my-core-beliefs)
 - [Lessons Learned from Launching a Chrome Extension](https://maxontech.io/blog/lessons-learned-from-launching-a-chrome-extension)
