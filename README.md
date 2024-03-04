@@ -1,5 +1,5 @@
 
-### Hi there 👋
+### Hi There, I'm Max Rohowsky 👨‍💻
 
 I'm Max, a Finance Ph.D. with a background in Industrial Engineering. I work as a consultant in the finance & tech space and have a profound interest in building projects and products that 'stick'.
 
@@ -10,6 +10,24 @@ I'm Max, a Finance Ph.D. with a background in Industrial Engineering. I work as 
 
 🌱 My LinkedIn: <br>
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/maxrohowsky)
+
+## Experience 👔
+| Position               | Company                     | Field                         | Work Period       |
+| ---------------------- | --------------------------- | ----------------------------- | ----------------- |
+| **Consultant**         | **Deloitte**                | **Technology Strategy**       | **2023-01 — now** |
+| Consultant             | BearingPoint                | Algorithm Optimisation        | 2021-10 — 2022-11 |
+| Researcher             | Technical Univ. Berlin      | Quantitative Finance          | 2021-05 — 2022-10 |
+| Assistant to GM        | AHK Greater China           | Industry Services & Banking   | 2021-02 — 2021-04 |
+
+## Education
+- Ph.D. Degree @ Technical University of Berlin (2019 - 2021) 
+- Master’s Degree @ Tongji University of Shanghai (2016 - 2018)
+- Master’s Degree @ Technical University of Berlin (2015 - 2018)
+- Bachelor's Degree @ Technical University of Berlin (2011 - 2015)
+- International Baccalaureate @ Berlin British School 
+
+## Socials:
+
 
 ## 🛠 Technologies I Use:    
 ![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
