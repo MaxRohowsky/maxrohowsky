@@ -1,5 +1,7 @@
+![banner](/assets/banner.png)
 
-## Hi There, I'm Max Rohowsky 👨‍💻
+
+## Hi There! 👨‍💻
 
 #### I'm Max, a Finance Ph.D. with a background in Industrial Engineering 
 #### - Currently, I work in consulting in the finance & tech space
