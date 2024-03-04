@@ -2,7 +2,6 @@
 
 
 ## Hi There! 👨‍💻
-
 I'm Max, a Finance Ph.D. with a background in Industrial Engineering 
 - Currently, I work in consulting in the finance & tech space
 - Profound interest in building projects and products that 'stick'
@@ -58,3 +57,6 @@ I'm Max, a Finance Ph.D. with a background in Industrial Engineering
 [![Preview](/assets/discord.png)](https://www.discord.gg/JERatQsfY8) &nbsp;
 [![Preview](/assets/youtube.png)](https://www.youtube.com/@maxontech) &nbsp;
 [![Preview](/assets/website.png)](https://maxontech.io) &nbsp;
+
+## Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/maxontech/count.svg)
