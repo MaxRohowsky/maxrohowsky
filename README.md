@@ -3,9 +3,9 @@
 
 ## Hi There! 👨‍💻
 
-#### I'm Max, a Finance Ph.D. with a background in Industrial Engineering 
-#### - Currently, I work in consulting in the finance & tech space
-#### - Profound interest in building projects and products that 'stick'
+I'm Max, a Finance Ph.D. with a background in Industrial Engineering 
+- Currently, I work in consulting in the finance & tech space
+- Profound interest in building projects and products that 'stick'
 
 ## 📊 Stats
 [![Max's GitHub Stats](https://github-readme-stats-mu-rose.vercel.app/api?username=maxontech&show_icons=true&theme=vue)](https://github.com/maxontech/github-readme-stats)
