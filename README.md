@@ -28,6 +28,12 @@ I'm Max, a Finance Ph.D. with a background in Industrial Engineering. I work as 
 
 ## Socials:
 
+[![Preview](/assets/twitter.png)](https://twitter.com/max_on_tech) &nbsp;
+[![Preview](/assets/linkedin.png)](https://www.linkedin.com/in/maxrohowsky) &nbsp;
+[![Preview](/assets/discord.png)](https://www.discord.gg/JERatQsfY8) &nbsp;
+[![Preview](/assets/youtube.png)](https://www.youtube.com/@maxontech) &nbsp;
+[![Preview](/assets/website.png)](https://maxontech.io) &nbsp;
+
 
 ## 🛠 Technologies I Use:    
 ![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
