@@ -9,30 +9,9 @@ I'm Max, a Finance Ph.D. with a background in Industrial Engineering
 ## 📊 Stats
 [![Max's GitHub Stats](https://github-readme-stats-mu-rose.vercel.app/api?username=maxontech&show_icons=true&theme=vue)](https://github.com/maxontech/github-readme-stats)
 
-## 📚 Recent Projects Shipped
+## 📚 Recent Projects
 - [Click to Copy](https://maxontech.io/click-to-copy)
 - [Linkedin Font Editor](https://maxontech.io/linkedin-font-editor)
-
-## 📝 Popular Blog Posts 
-- [JavaScript in a Nutshell](https://maxontech.io/blog/javascript-in-a-nutshell)
-- [My Core Beliefs](https://maxontech.io/blog/my-core-beliefs)
-- [Lessons Learned from Launching a Chrome Extension](https://maxontech.io/blog/lessons-learned-from-launching-a-chrome-extension)
-
-## 👔 Experience
-| Position               | Company                     | Field                         | Work Period       |
-| ---------------------- | --------------------------- | ----------------------------- | ----------------- |
-| **Consultant**         | **Deloitte**                | **Technology Strategy**       | **2023-01 — now** |
-| Consultant             | BearingPoint                | Algorithm Optimisation        | 2021-10 — 2022-11 |
-| Researcher             | Technical Univ. Berlin      | Quantitative Finance          | 2021-05 — 2022-10 |
-| Assistant to GM        | AHK Greater China           | Industry Services & Banking   | 2021-02 — 2021-04 |
-
-## 🎓 Education
-- Ph.D. Degree @ Technical University of Berlin (2019 - 2021) 
-- Master’s Degree @ Tongji University of Shanghai (2016 - 2018)
-- Master’s Degree @ Technical University of Berlin (2015 - 2018)
-- Bachelor's Degree @ Technical University of Berlin (2011 - 2015)
-- International Baccalaureate @ Berlin British School
-
 
 ## 🛠 Technologies I Use  
 ![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
@@ -50,6 +29,26 @@ I'm Max, a Finance Ph.D. with a background in Industrial Engineering
 ![](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
 ![](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 👔 Experience
+| Position               | Company                     | Field                         | Work Period       |
+| ---------------------- | --------------------------- | ----------------------------- | ----------------- |
+| **Consultant**         | **Deloitte**                | **Technology Strategy**       | **2023-01 — now** |
+| Consultant             | BearingPoint                | Algorithm Optimisation        | 2021-10 — 2022-11 |
+| Researcher             | Technical Univ. Berlin      | Quantitative Finance          | 2021-05 — 2022-10 |
+| Assistant to GM        | AHK Greater China           | Industry Services & Banking   | 2021-02 — 2021-04 |
+
+## 🎓 Education
+- Ph.D. Degree @ Technical University of Berlin (2019 - 2021) 
+- Master’s Degree @ Tongji University of Shanghai (2016 - 2018)
+- Master’s Degree @ Technical University of Berlin (2015 - 2018)
+- Bachelor's Degree @ Technical University of Berlin (2011 - 2015)
+- International Baccalaureate @ Berlin British School
+
+## 📝 Popular Blog Posts 
+- [JavaScript in a Nutshell](https://maxontech.io/blog/javascript-in-a-nutshell)
+- [My Core Beliefs](https://maxontech.io/blog/my-core-beliefs)
+- [Lessons Learned from Launching a Chrome Extension](https://maxontech.io/blog/lessons-learned-from-launching-a-chrome-extension)
 
 ## Socials
 [![Preview](/assets/twitter.png)](https://twitter.com/max_on_tech) &nbsp;
