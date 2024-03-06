@@ -9,7 +9,7 @@ I'm Max, a Finance Ph.D. with a background in Industrial Engineering
 ## 📊 Stats
 [![Max's GitHub Stats](https://github-readme-stats-mu-rose.vercel.app/api?username=maxontech&show_icons=true&theme=vue)](https://github.com/maxontech/github-readme-stats)
 
-## 📚 Recent Projects
+## 📚 Recent Learning Projects
 - [Click to Copy](https://maxontech.io/click-to-copy)
 - [Linkedin Font Editor](https://maxontech.io/linkedin-font-editor)
 
