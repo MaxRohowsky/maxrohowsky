@@ -10,9 +10,9 @@ I'm Max, a Finance Ph.D. with a background in Industrial Engineering
 [![Max's GitHub Stats](https://github-readme-stats-wheat-phi.vercel.app/api?username=maxontech&show_icons=true&theme=vue)](https://github.com/maxontech/github-readme-stats)
 
 ## 📚 Recent Learning Projects
-- [Click to Copy](https://maxontech.io/click-to-copy)
-- [Linkedin Font Editor](https://maxontech.io/linkedin-font-editor)
-- [GitPro](https://maxontech.github.io/best-github-profile-readme/)
+- [Click to Copy](https://maxontech.io/click-to-copy): Copy Text, URLs, and CSS with 1 Click (Chrome Extension)
+- [Linkedin Font Editor](https://maxontech.io/linkedin-font-editor): Add Bold, Italic, and Underlined Fonts to your Linkedin Posts (Chrome Extension)
+- [GitPro](https://maxontech.github.io/best-github-profile-readme/): Showcase of GitHub's most Awesome Profiles (Git Actions Automated Website)
 
 ## 👔 Experience
 | Position               | Company                     | Field                         | Work Period       |
