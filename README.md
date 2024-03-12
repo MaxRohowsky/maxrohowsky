@@ -12,6 +12,7 @@ I'm Max, a Finance Ph.D. with a background in Industrial Engineering
 ## 📚 Recent Learning Projects
 - [Click to Copy](https://maxontech.io/click-to-copy)
 - [Linkedin Font Editor](https://maxontech.io/linkedin-font-editor)
+- [GitPro](https://maxontech.github.io/best-github-profile-readme/)
 
 ## 👔 Experience
 | Position               | Company                     | Field                         | Work Period       |
