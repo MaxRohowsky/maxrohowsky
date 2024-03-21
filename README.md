@@ -27,7 +27,6 @@ I'm Max, a Finance Ph.D. with a background in Industrial Engineering
 - Master’s Degree @ Tongji University of Shanghai (2016 - 2018)
 - Master’s Degree @ Technical University of Berlin (2015 - 2018)
 - Bachelor's Degree @ Technical University of Berlin (2011 - 2015)
-- International Baccalaureate @ Berlin British School
 
 ## 📝 Popular Blog Posts 
 - [JavaScript in a Nutshell](https://maxontech.io/blog/javascript-in-a-nutshell)
