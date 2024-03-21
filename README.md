@@ -16,6 +16,7 @@ I'm Max, a Finance Ph.D. with a background in Industrial Engineering
 | [Best GitHub Profile Readmes](https://github.com/maxontech/best-github-profile-readme)            | [Website](https://maxontech.github.io/best-github-profile-readme/)               | GitHub's most Unique Profiles      |
 | [Click to Copy](https://github.com/maxontech/click-to-copy)                                       | [Webstore](https://chromewebstore.google.com/detail/click-to-copy/fonpjogfddpklefillfepifbcikebelh)              | Copy Text, Urls, and CSS with one Click!       |
 | [LinkedIn Font Editor](https://github.com/maxontech/linkedin-font-editor)         | [Webstore](https://chromewebstore.google.com/detail/linkedin-post-bold-italic/djkclikbnokagbeciclfpngfeclcokob)   |  𝗕𝗼𝗹𝗱, 𝐼𝑡𝑎𝑙𝑖𝑐, and U̲n̲d̲e̲r̲l̲i̲n̲e̲d̲ Fonts for LinkedIn     |
+| [NEFT Flappy Bird](https://github.com/maxontech/neft-flappy-bird)         | /  |  Neuro Evolution with Fixed Topologies from Scratch     |
 
 ## 👔 Experience
 | Position               | Company                     | Field                         | Work Period       |
