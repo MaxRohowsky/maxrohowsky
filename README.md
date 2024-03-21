@@ -10,9 +10,12 @@ I'm Max, a Finance Ph.D. with a background in Industrial Engineering
 [![Max's GitHub Stats](https://github-readme-stats-wheat-phi.vercel.app/api?username=maxontech&show_icons=true&theme=vue)](https://github.com/maxontech/github-readme-stats)
 
 ## 📚 Recent Learning Projects
-- [Click to Copy](https://maxontech.io/click-to-copy): Copy Text, URLs, and CSS with 1 Click (Chrome Extension)
-- [Linkedin Font Editor](https://maxontech.io/linkedin-font-editor): Add Bold, Italic, and Underlined Fonts to your Linkedin Posts (Chrome Extension)
-- [GitPro](https://maxontech.github.io/best-github-profile-readme/): Showcase of GitHub's most Awesome Profiles (Git Actions Automated Website)
+| Repository              | Website                     | Description                         | 
+| ---------------------- | --------------------------- | ----------------------------- | 
+| [Landing Page Design Examples](https://github.com/maxontech/landing-page-design-examples)         | [Website](https://landing-page-design-examples.vercel.app/)                       | Website with Awesome Landing Pages for Design Inspiration       |
+| [Best GitHub Profile Readmes](https://github.com/maxontech/best-github-profile-readme)            | [Website](https://maxontech.github.io/best-github-profile-readme/)               | GitHub Actions Automated Website of GitHub's most Unique Profiles      |
+| [Click to Copy](https://github.com/maxontech/click-to-copy)                                       | [Chrome Webstore](https://chromewebstore.google.com/detail/click-to-copy/fonpjogfddpklefillfepifbcikebelh)              | Chrome Extension: Copy Text, Urls, and CSS with one Click!       |
+| [LinkedIn Font Editor](https://github.com/maxontech/linkedin-font-editor)         | [Chrome Webstore](https://chromewebstore.google.com/detail/linkedin-post-bold-italic/djkclikbnokagbeciclfpngfeclcokob)   |  Google Chrome Extension that Enables 𝗕𝗼𝗹𝗱, 𝐼𝑡𝑎𝑙𝑖𝑐, and U̲n̲d̲e̲r̲l̲i̲n̲e̲d̲ Fonts on LinkedIn Posts      |
 
 ## 👔 Experience
 | Position               | Company                     | Field                         | Work Period       |
