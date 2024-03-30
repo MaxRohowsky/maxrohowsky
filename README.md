@@ -12,7 +12,7 @@ I'm Max, a Finance Ph.D. with a background in Industrial Engineering
 ## 📚 Recent Learning Projects
 | Repository              | Website                     | Description                         | 
 | ---------------------- | --------------------------- | ----------------------------- | 
-| [Twitter (X) Font Editor](https://github.com/maxontech/x-font-editor)         | Submitted for Review                      | 𝗕𝗼𝗹𝗱, 𝐼𝑡𝑎𝑙𝑖𝑐, and U̲n̲d̲e̲r̲l̲i̲n̲e̲d̲ Fonts for Twitter       |
+| [Twitter (X) Font Editor](https://github.com/maxontech/twitter-font-editor)         | Submitted for Review                      | 𝗕𝗼𝗹𝗱, 𝐼𝑡𝑎𝑙𝑖𝑐, and U̲n̲d̲e̲r̲l̲i̲n̲e̲d̲ Fonts for Twitter       |
 | [Landing Page Design Examples](https://github.com/maxontech/landing-page-design-examples)         | [Website](https://landing-page-design-examples.vercel.app/)                       | Awesome Landing Pages       |
 | [Best GitHub Profile Readmes](https://github.com/maxontech/best-github-profile-readme)            | [Website](https://maxontech.github.io/best-github-profile-readme/)               | GitHub's most Unique Profiles      |
 | [Click to Copy](https://github.com/maxontech/click-to-copy)                                       | [Webstore](https://chromewebstore.google.com/detail/click-to-copy/fonpjogfddpklefillfepifbcikebelh)              | Copy Text, Urls, and CSS with one Click!       |
