@@ -12,6 +12,7 @@ I'm Max, a Finance Ph.D. with a background in Industrial Engineering
 ## 📚 Recent Learning Projects
 | Repository              | Website                     | Description                         | 
 | ---------------------- | --------------------------- | ----------------------------- | 
+| Delta        | Progress: ![Progress](https://progress-bar.dev/10)  |   Coming Soon    |
 | [Outline HTML Elements](https://github.com/maxontech/outline-html-elements)         | [Webstore](https://chrome.google.com/webstore/detail/ihlgleabnhekkankfpfoafkobncbfcfo)  |   Outline HTML Elements to Inspect Website Layout     |
 | [Twitter (X) Font Editor](https://github.com/maxontech/twitter-font-editor)         | [Webstore](https://chromewebstore.google.com/detail/x-twitter-post-text-edito/dgcfmccdeggjhkpndikcanaobhkggffd)                      | 𝗕𝗼𝗹𝗱, 𝐼𝑡𝑎𝑙𝑖𝑐, and U̲n̲d̲e̲r̲l̲i̲n̲e̲d̲ Fonts for Twitter       |
 | [Landing Page Design Examples](https://github.com/maxontech/landing-page-design-examples)         | [Website](https://landing-page-design-examples.vercel.app/)                       | Awesome Landing Pages       |
