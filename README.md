@@ -10,7 +10,7 @@ I'm Max, a Finance Ph.D. with a background in Industrial Engineering
 [![Max's GitHub Stats](https://github-readme-stats-wheat-phi.vercel.app/api?username=maxontech&show_icons=true&theme=vue)](https://github.com/maxontech/github-readme-stats)
 
 ## 📚 Recent Learning Projects
-| Repository              | Website                     | Description                         | 
+| Repository              | Link                     | Description                         | 
 | ---------------------- | --------------------------- | ----------------------------- | 
 | 🧙       | ![Progress](https://progress-bar.dev/10)  |   Coming Soon    |
 | [Outline HTML Elements](https://github.com/maxontech/outline-html-elements)         | [Webstore](https://chrome.google.com/webstore/detail/ihlgleabnhekkankfpfoafkobncbfcfo)  |   Outline HTML Elements to Inspect Website Layout     |
@@ -19,7 +19,7 @@ I'm Max, a Finance Ph.D. with a background in Industrial Engineering
 | [Best GitHub Profile Readmes](https://github.com/maxontech/best-github-profile-readme)            | [Website](https://maxontech.github.io/best-github-profile-readme/)               | GitHub's most Unique Profiles      |
 | [Click to Copy](https://github.com/maxontech/click-to-copy)                                       | [Webstore](https://chromewebstore.google.com/detail/click-to-copy/fonpjogfddpklefillfepifbcikebelh)              | Copy Text, Urls, and CSS with one Click!       |
 | [LinkedIn Font Editor](https://github.com/maxontech/linkedin-font-editor)         | [Webstore](https://chromewebstore.google.com/detail/linkedin-post-bold-italic/djkclikbnokagbeciclfpngfeclcokob)   |  𝗕𝗼𝗹𝗱, 𝐼𝑡𝑎𝑙𝑖𝑐, and U̲n̲d̲e̲r̲l̲i̲n̲e̲d̲ Fonts for LinkedIn     |
-| [NEFT Flappy Bird](https://github.com/maxontech/neft-flappy-bird)         | /  |  Neuro Evolution with Fixed Topologies from Scratch     |
+| [NEFT Flappy Bird](https://github.com/maxontech/neft-flappy-bird)         | [Video](https://www.youtube.com/watch?v=zsGvCwaaMOI)  |  Neuro Evolution with Fixed Topologies from Scratch     |
 | [Personal Blog](https://maxontech.io/)       | [Website](https://maxontech.io/)   |  Built with NextJS (App Router) & WP GraphQL   |
 
 ## 👔 Experience
