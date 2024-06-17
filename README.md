@@ -1,4 +1,4 @@
-![banner](/assets/Sequence_peek.gif)
+![banner](/assets/banner.png)
 
 
 ## Hi There! 👨‍💻
