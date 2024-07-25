@@ -12,7 +12,7 @@ I'm Max, a Finance Ph.D. with a background in Industrial Engineering
 ## 📚 Recent Learning Projects
 | Repository                                                                                | Link                                                                                                            | Description                                        | Awards |
 | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ------------------ |
-| 🧙                                                                                         | ![Progress](https://progress-bar.dev/50)                                                                        | Coming Soon                                       |                    |
+| [Personal Blog v2](https://maxontech.io/)                                                    | [Website](https://maxontech.io/)                                                                           |  New Blog.                                      |                    |
 | [Outline HTML Elements](https://github.com/maxontech/outline-html-elements)               | [Webstore](https://chrome.google.com/webstore/detail/ihlgleabnhekkankfpfoafkobncbfcfo)                          | Outline HTML Elements to Inspect Website Layout    |                    |
 | [Twitter (X) Font Editor](https://github.com/maxontech/twitter-font-editor)               | [Webstore](https://chromewebstore.google.com/detail/x-twitter-post-text-edito/dgcfmccdeggjhkpndikcanaobhkggffd) | 𝗕𝗼𝗹𝗱, 𝐼𝑡𝑎𝑙𝑖𝑐, and U̲n̲d̲e̲r̲l̲i̲n̲e̲d̲ Fonts for Twitter       |                    |
 | [Landing Page Design Examples](https://github.com/maxontech/landing-page-design-examples) | [Website](https://landing-page-design-examples.vercel.app/)                                                     | Awesome Landing Pages                              |  [5th DevHunt](https://devhunt.org/tool/landinghero)                 |
@@ -20,7 +20,7 @@ I'm Max, a Finance Ph.D. with a background in Industrial Engineering
 | [Click to Copy](https://github.com/maxontech/click-to-copy)                               | [Webstore](https://chromewebstore.google.com/detail/click-to-copy/fonpjogfddpklefillfepifbcikebelh)             | Copy Text, Urls, and CSS with one Click!           |  [4rd DevHunt](https://devhunt.org/tool/click-to-copy) |
 | [LinkedIn Font Editor](https://github.com/maxontech/linkedin-font-editor)                 | [Webstore](https://chromewebstore.google.com/detail/linkedin-post-bold-italic/djkclikbnokagbeciclfpngfeclcokob) | 𝗕𝗼𝗹𝗱, 𝐼𝑡𝑎𝑙𝑖𝑐, and U̲n̲d̲e̲r̲l̲i̲n̲e̲d̲ Fonts for LinkedIn      |                    |
 | [NEFT Flappy Bird](https://github.com/maxontech/neft-flappy-bird)                         | [Video](https://www.youtube.com/watch?v=zsGvCwaaMOI)                                                            | Neuro Evolution with Fixed Topologies from Scratch |                    |
-| [Personal Blog](https://maxontech.io/)                                                    | [Website](https://maxontech.io/)                                                                                | Built with NextJS (App Router) & WP GraphQL        |                    |
+| Personal Blog v1                                                  | (Taken Down)                                                                             | Built with NextJS (App Router) & WP GraphQL        |                    |
 
 ## 👔 Experience
 | Position               | Company                     | Field                         | Work Period       |
@@ -39,7 +39,7 @@ I'm Max, a Finance Ph.D. with a background in Industrial Engineering
 ## 📝 Popular Blog Posts 
 - [JavaScript in a Nutshell](https://maxontech.io/blog/javascript-in-a-nutshell)
 - [My Core Beliefs](https://maxontech.io/blog/my-core-beliefs)
-- [Lessons Learned from Launching a Chrome Extension](https://maxontech.io/blog/lessons-learned-from-launching-a-chrome-extension)
+- [How Does the Internet Work?](https://maxontech.io/blog/how-the-internet-works)
 
 ## 🛠 Technologies I Use  
 ![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
