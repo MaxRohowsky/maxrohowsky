@@ -13,14 +13,14 @@ I'm Max, a Finance Ph.D. with a background in Industrial Engineering
 | Repository                                                                                | Link                                                                                                            | Description                                        | Awards |
 | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ------------------ |
 | [mdx Blog](https://mdx-blog-amber.vercel.app/)                                            | [Website](https://mdx-blog-amber.vercel.app/)                                                                   |  Premium MDX, NextJS, TailwindCSS Template         | [3rd DevHunt](https://devhunt.org/tool/nextjs-mdx-blog)                    |
-| [Personal Blog v2](https://maxontech.io/)                                                 | [Website](https://maxontech.io/)                                                                                |  New Blog.                                         |                    |
-| [Outline HTML Elements](https://github.com/maxontech/outline-html-elements)               | [Webstore](https://chrome.google.com/webstore/detail/ihlgleabnhekkankfpfoafkobncbfcfo)                          | Outline HTML Elements to Inspect Website Layout    |                    |
-| [Twitter (X) Font Editor](https://github.com/maxontech/twitter-font-editor)               | [Webstore](https://chromewebstore.google.com/detail/x-twitter-post-text-edito/dgcfmccdeggjhkpndikcanaobhkggffd) | 𝗕𝗼𝗹𝗱, 𝐼𝑡𝑎𝑙𝑖𝑐, and U̲n̲d̲e̲r̲l̲i̲n̲e̲d̲ Fonts for Twitter       |                    |
-| [Landing Page Design Examples](https://github.com/maxontech/landing-page-design-examples) | [Website](https://landing-page-design-examples.vercel.app/)                                                     | Awesome Landing Pages                              |  [5th DevHunt](https://devhunt.org/tool/landinghero)                 |
-| [Best GitHub Profile Readmes](https://github.com/maxontech/best-github-profile-readme)    | [Website](https://maxontech.github.io/best-github-profile-readme/)                                              | GitHub's most Unique Profiles                      |  [3rd DevHunt](https://devhunt.org/tool/gitpro)   |
-| [Click to Copy](https://github.com/maxontech/click-to-copy)                               | [Webstore](https://chromewebstore.google.com/detail/click-to-copy/fonpjogfddpklefillfepifbcikebelh)             | Copy Text, Urls, and CSS with one Click!           |  [4rd DevHunt](https://devhunt.org/tool/click-to-copy) |
-| [LinkedIn Font Editor](https://github.com/maxontech/linkedin-font-editor)                 | [Webstore](https://chromewebstore.google.com/detail/linkedin-post-bold-italic/djkclikbnokagbeciclfpngfeclcokob) | 𝗕𝗼𝗹𝗱, 𝐼𝑡𝑎𝑙𝑖𝑐, and U̲n̲d̲e̲r̲l̲i̲n̲e̲d̲ Fonts for LinkedIn      |                    |
-| [NEFT Flappy Bird](https://github.com/maxontech/neft-flappy-bird)                         | [Video](https://www.youtube.com/watch?v=zsGvCwaaMOI)                                                            | Neuro Evolution with Fixed Topologies from Scratch |                    |
+| [Personal Blog v2](https://maxrohowsky.com/)                                                 | [Website](https://maxrohowsky.com/)                                                                                |  New Blog.                                         |                    |
+| [Outline HTML Elements](https://github.com/maxrohowsky/outline-html-elements)               | [Webstore](https://chrome.google.com/webstore/detail/ihlgleabnhekkankfpfoafkobncbfcfo)                          | Outline HTML Elements to Inspect Website Layout    |                    |
+| [Twitter (X) Font Editor](https://github.com/maxrohowsky/twitter-font-editor)               | [Webstore](https://chromewebstore.google.com/detail/x-twitter-post-text-edito/dgcfmccdeggjhkpndikcanaobhkggffd) | 𝗕𝗼𝗹𝗱, 𝐼𝑡𝑎𝑙𝑖𝑐, and U̲n̲d̲e̲r̲l̲i̲n̲e̲d̲ Fonts for Twitter       |                    |
+| [Landing Page Design Examples](https://github.com/maxrohowsky/landing-page-design-examples) | [Website](https://landing-page-design-examples.vercel.app/)                                                     | Awesome Landing Pages                              |  [5th DevHunt](https://devhunt.org/tool/landinghero)                 |
+| [Best GitHub Profile Readmes](https://github.com/maxrohowsky/best-github-profile-readme)    | [Website](https://maxrohowsky.github.io/best-github-profile-readme/)                                              | GitHub's most Unique Profiles                      |  [3rd DevHunt](https://devhunt.org/tool/gitpro)   |
+| [Click to Copy](https://github.com/maxrohowsky/click-to-copy)                               | [Webstore](https://chromewebstore.google.com/detail/click-to-copy/fonpjogfddpklefillfepifbcikebelh)             | Copy Text, Urls, and CSS with one Click!           |  [4rd DevHunt](https://devhunt.org/tool/click-to-copy) |
+| [LinkedIn Font Editor](https://github.com/maxrohowsky/linkedin-font-editor)                 | [Webstore](https://chromewebstore.google.com/detail/linkedin-post-bold-italic/djkclikbnokagbeciclfpngfeclcokob) | 𝗕𝗼𝗹𝗱, 𝐼𝑡𝑎𝑙𝑖𝑐, and U̲n̲d̲e̲r̲l̲i̲n̲e̲d̲ Fonts for LinkedIn      |                    |
+| [NEFT Flappy Bird](https://github.com/maxrohowsky/neft-flappy-bird)                         | [Video](https://www.youtube.com/watch?v=zsGvCwaaMOI)                                                            | Neuro Evolution with Fixed Topologies from Scratch |                    |
 | Personal Blog v1                                                  | (Taken Down)                                                                             | Built with NextJS (App Router) & WP GraphQL        |                    |
 
 ## 👔 Experience
@@ -38,9 +38,9 @@ I'm Max, a Finance Ph.D. with a background in Industrial Engineering
 - Bachelor's Degree @ Technical University of Berlin (2011 - 2015)
 
 ## 📝 Popular Blog Posts 
-- [JavaScript in a Nutshell](https://maxontech.io/blog/javascript-in-a-nutshell)
-- [My Core Beliefs](https://maxontech.io/blog/my-core-beliefs)
-- [How Does the Internet Work?](https://maxontech.io/blog/how-the-internet-works)
+- [JavaScript in a Nutshell](https://maxrohowsky.com/blog/javascript-in-a-nutshell)
+- [My Core Beliefs](https://maxrohowsky.com/blog/my-core-beliefs)
+- [How Does the Internet Work?](https://maxrohowsky.com/blog/how-the-internet-works)
 
 ## 🛠 Technologies I Use  
 ![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
@@ -63,8 +63,8 @@ I'm Max, a Finance Ph.D. with a background in Industrial Engineering
 [![Preview](/assets/twitter.png)](https://twitter.com/max_on_tech) &nbsp;
 [![Preview](/assets/linkedin.png)](https://www.linkedin.com/in/maxrohowsky) &nbsp;
 [![Preview](/assets/discord.png)](https://www.discord.gg/JERatQsfY8) &nbsp;
-[![Preview](/assets/youtube.png)](https://www.youtube.com/@maxontech) &nbsp;
-[![Preview](/assets/website.png)](https://maxontech.io) &nbsp;
+[![Preview](/assets/youtube.png)](https://www.youtube.com/@maxrohowsky) &nbsp;
+[![Preview](/assets/website.png)](https://maxrohowsky.com) &nbsp;
 
 ## Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/maxontech/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/maxrohowsky/count.svg)
