@@ -8,8 +8,10 @@ I'm Max, a Finance Ph.D. with a background in Industrial Engineering
 
 ## 📊 Stats
 
+
+
 <p align="center">
-[![Max's GitHub Stats](https://github-readme-stats-wheat-phi.vercel.app/api?username=maxrohowsky&show_icons=true&theme=vue)](https://github.com/maxrohowsky/github-readme-stats)
+  [![Max's GitHub Stats](https://github-readme-stats-wheat-phi.vercel.app/api?username=maxrohowsky&show_icons=true&theme=vue)](https://github.com/maxrohowsky/github-readme-stats)
 </p>
 
 ## 📚 Recent Learning Projects
