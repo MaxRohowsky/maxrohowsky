@@ -27,6 +27,7 @@ I'm Max, a Finance Ph.D. with a background in Industrial Engineering
 ## 👔 Experience
 | Position               | Company                     | Field                         | Work Period       |
 | ---------------------- | --------------------------- | ----------------------------- | ----------------- |
+| **Senior Consultant**         | **Simon-Kucher**                | **Custom Software & Loyalty Software**       | **2024-08 — now** |
 | **Consultant**         | **Deloitte**                | **Technology Strategy**       | **2023-01 — now** |
 | Consultant             | BearingPoint                | Trade Promotion Management       | 2021-10 — 2022-11 |
 | Researcher             | Technical Univ. Berlin      | Quantitative Finance          | 2021-05 — 2022-10 |
