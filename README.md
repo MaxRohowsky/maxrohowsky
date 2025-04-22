@@ -1,4 +1,5 @@
-![banner](/assets/banner2.png)
+
+![banner](https://github.com/user-attachments/assets/5acb5424-8a32-4ee5-91c5-31e5df7424f6)
 
 
 ## Hi There! 👨‍💻
@@ -13,7 +14,7 @@ I'm Max, a Finance Ph.D. with a background in Industrial Engineering
 ## 📚 Recent Learning Projects
 | Repository                                                                                | Link                                                                                                            | Description                                        | Awards |
 | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ------------------ |
-| [DB Chat](https://github.com/MaxRohowsky/database-ai-react)                                             | [Download](https://www.maxrohowsky.com/database-chat)                                                                   |  AI first DB Client        | ProductHunt Launch TBD             |
+| [DB Chat](https://github.com/MaxRohowsky/database-ai-react)                                             | [Download](https://www.maxrohowsky.com/database-chat)                                                                   |  AI first DB Client        |  /           |
 | [Bluesky 3D Graph](https://bluesky-3d-graph.vercel.app/)                                             | [Website](https://bluesky-3d-graph.vercel.app/)                                                                   |  3D chart of your Bluesky post activity        | [Live on PH](https://bluesky-3d-graph.vercel.app/)                    |
 | [mdx Blog](https://mdx-blog-amber.vercel.app/)                                            | [Website](https://mdx-blog-amber.vercel.app/)                                                                   |  Premium MDX, NextJS, TailwindCSS Template         | [3rd DevHunt](https://devhunt.org/tool/nextjs-mdx-blog)                    |
 | [Personal Blog v2](https://maxrohowsky.com/)                                                 | [Website](https://maxrohowsky.com/)                                                                                |  New Blog.                                         |                    |
