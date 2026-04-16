@@ -1,6 +1,6 @@
 
 ![banner](https://raw.githubusercontent.com/MaxRohowsky/maxrohowsky/refs/heads/main/assets/GitHub-Banner.png)
-![banner](https://github.com/user-attachments/assets/5acb5424-8a32-4ee5-91c5-31e5df7424f6)
+
 
 
 ## Hi There! 👨‍💻
