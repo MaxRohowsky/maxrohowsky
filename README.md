@@ -66,5 +66,3 @@ I'm Max, a Finance Ph.D. with a background in Industrial Engineering
 [![Preview](/assets/youtube.png)](https://www.youtube.com/@maxrohowsky) &nbsp;
 [![Preview](/assets/website.png)](https://maxrohowsky.com) &nbsp;
 
-## Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/maxrohowsky/count.svg)
