@@ -1,20 +1,15 @@
 
 ![banner](https://raw.githubusercontent.com/MaxRohowsky/maxrohowsky/refs/heads/main/assets/GitHub-Banner.png)
 
-
-
 ## Hi There! 👨‍💻
 I'm Max, a Finance Ph.D. with a background in Industrial Engineering 
 - Currently, I work in consulting in the finance & tech space
 - Profound interest in building projects and products that 'stick'
 
-## 📊 Stats
-
-[![Max's GitHub Stats](https://github-readme-stats-wheat-phi.vercel.app/api?username=maxrohowsky&show_icons=true&theme=vue)](https://github.com/maxrohowsky/github-readme-stats)
-
-## 📚 Recent Learning Projects
+## 📚 Projects
 | Repository                                                                                | Link                                                                                                            | Description                                        | Awards |
 | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ------------------ |
+| [Crosspublish](https://www.crosspublish.com)                                             | [Website](https://www.crosspublish.com)                                                                   |  Social Media Tool        |  /           |
 | [DB Chat](https://github.com/MaxRohowsky/database-ai-react)                                             | [Download](https://www.maxrohowsky.com/database-chat)                                                                   |  AI first DB Client        |  /           |
 | [Bluesky 3D Graph](https://bluesky-3d-graph.vercel.app/)                                             | [Website](https://bluesky-3d-graph.vercel.app/)                                                                   |  3D chart of your Bluesky post activity        | [Live on PH](https://bluesky-3d-graph.vercel.app/)                    |
 | [mdx Blog](https://mdx-blog-amber.vercel.app/)                                            | [Website](https://mdx-blog-amber.vercel.app/)                                                                   |  Premium MDX, NextJS, TailwindCSS Template         | [3rd DevHunt](https://devhunt.org/tool/nextjs-mdx-blog)                    |
@@ -66,9 +61,8 @@ I'm Max, a Finance Ph.D. with a background in Industrial Engineering
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Socials
-[![Preview](/assets/twitter.png)](https://twitter.com/max_on_tech) &nbsp;
+[![Preview](/assets/twitter.png)](https://twitter.com/maxrohowsky) &nbsp;
 [![Preview](/assets/linkedin.png)](https://www.linkedin.com/in/maxrohowsky) &nbsp;
-[![Preview](/assets/discord.png)](https://www.discord.gg/JERatQsfY8) &nbsp;
 [![Preview](/assets/youtube.png)](https://www.youtube.com/@maxrohowsky) &nbsp;
 [![Preview](/assets/website.png)](https://maxrohowsky.com) &nbsp;
 
